@@ -1,0 +1,3 @@
+*.old
+/.next
+.env.local.EXAMPLE
