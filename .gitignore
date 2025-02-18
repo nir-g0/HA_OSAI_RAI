@@ -1,3 +1,4 @@
 *.old
 /.next
 .env.local.EXAMPLE
+.DS_Store
